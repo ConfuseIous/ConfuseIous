@@ -8,7 +8,7 @@ I like to make cool things, primarily with Python and Swift.
 A free schedule manager like no other on the App Store, some key highlights are the minimalist UI, recurring tasks, automatic deletion of old completed tasks and the usage of iCloud which syncs data seamlessly across all your devices.
 
 - ### [PowerToYou](https://apps.apple.com/sg/app/powertoyou/id1558154409) - iOS, iPadOS, watchOS, macOS
-A unique app, helpful to owners of multiple devices, PowerToYou helps to track the battery level of all your devices in one place, preventing nasty surprises in the form of a depleted battery at a critical time. 
+A unique app, helpful to owners of multiple devices, PowerToYou helps to track the battery level of all your devices in one place, preventing nasty surprises in the form of a depleted battery at a critical time. PowerToYou is [open source](github.com/ConfuseIous/PowerToYou)!
 
 &nbsp;
 &nbsp;
