@@ -14,3 +14,5 @@ A unique app, helpful to owners of multiple devices, PowerToYou helps to track t
 &nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseIous&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseIous)](https://github.com/ConfuseIous/github-readme-stats)
+
