@@ -1,6 +1,6 @@
 # Hi, I'm Karandeep Singh.
 
-I make cool things.
+## I make cool things.
 
 ## I have 2 apps on the Apple App Store
 
@@ -10,10 +10,10 @@ A free schedule manager like no other on the App Store, some key highlights are 
 - ### [PowerToYou](https://confuseious.github.io/PowerToYou) - iOS, iPadOS, watchOS, macOS, Android
 A unique app, helpful to owners of multiple devices, PowerToYou helps to track the battery level of all your devices in one place and notifies you when any of your devices is low on battery or has finished charging.
 
-&nbsp;
-&nbsp;
+## Contact:
+✉️ Email: apps.karandeepsingh@icloud.com
 
-Most of my work is on private repositories so these stats may not be completely accurate.
+![Stats](https://github.com/confuseious/github-stats/blob/master/generated/overview.svg)
+![Langs](https://github.com/confuseious/github-stats/blob/master/generated/languages.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseIous&count_private=true&show_icons=true)
 
