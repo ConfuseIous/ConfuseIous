@@ -8,7 +8,7 @@
 PlanTask is an AI powered multi-device schedule manager that brings you a new way to think about your schedule - by not thinking about it. It uses its PlanTellect Machine Learning model to automatically schedule tasks for you.
 
 - ### [PowerToYou](https://confuseious.github.io/PowerToYou) - iOS, iPadOS, watchOS, macOS, Android
-PowerToYou helps to track the battery level of all your devices in one place and notifies you when any of your devices is low on battery or has finished charging. PowerToYou has over 7500 downloads and counting.
+PowerToYou helps to track the battery level of all your devices in one place and notifies you when any of your devices is low on battery or has finished charging. PowerToYou has over 7500 downloads and counting and has been featured on the iReviews YouTube channel and Stuff Magazine. 
 
 ## 📱Contact:
 - ✉️ Email: [apps.karandeepsingh@icloud.com](mailto:apps.karandeepsingh@icloud.com)
