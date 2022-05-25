@@ -1,8 +1,8 @@
 # Hi, I'm Karandeep Singh.
 
-## I make cool things.
+## I'm a developer, WWDC '22 Swift Student Challenge winner, and Year 2 Information Technology student at Singapore Polytechnic. I make cool things.
 
-## I have 4 apps on the Apple App Store
+## I have 4 apps on the Apple App Store, with another 2 works in progress.
 
 - ### [PlanTask](https://apps.apple.com/app/plantask/id1516651532) - iOS, iPadOS
 PlanTask is an intelligent multi-device schedule manager that brings you a new way to think about your schedule - by not thinking about it. PlanTask automatically schedules your tasks for you to make planning effortless. PlanTask also has features such as a widget and recurring tasks.
@@ -19,6 +19,7 @@ BookSwap allows you to give away your books and get new ones from others - for f
 ## 📱Contact:
 - ✉️ Email: [apps.karandeepsingh@icloud.com](mailto:apps.karandeepsingh@icloud.com)
 - 🐦 Twitter: [ConfuseIous](https://twitter.com/confuseious)
+- LinkedIn: [Karandeep Singh](https://sg.linkedin.com/in/karandeep-singh-635888213)
 
 ![Stats](https://github.com/confuseious/github-stats/blob/master/generated/overview.svg)
 ![Langs](https://github.com/confuseious/github-stats/blob/master/generated/languages.svg)
