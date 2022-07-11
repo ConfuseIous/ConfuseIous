@@ -24,7 +24,3 @@ Vanish uses Machine Learning to remove backgrounds from images and export them t
 - 🐦 Twitter: [ConfuseIous](https://twitter.com/confuseious)
 - LinkedIn: [Karandeep Singh](https://sg.linkedin.com/in/karandeep-singh-635888213)
 
-![Stats](https://github.com/confuseious/github-stats/blob/master/generated/overview.svg)
-![Langs](https://github.com/confuseious/github-stats/blob/master/generated/languages.svg)
-
-
