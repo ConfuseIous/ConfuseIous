@@ -3,6 +3,8 @@
 ## I'm a developer, WWDC '22 Swift Student Challenge winner, and Year 2 Information Technology student at Singapore Polytechnic. I make cool things.
 
 ## You can learn more about my apps and me on my [website](https://ksapps.com/).
+<br/><br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ConfuseIous&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ## 📱Contact:
 - ✉️ Email: [hello@ksapps.com](mailto:hello@ksapps.com)
