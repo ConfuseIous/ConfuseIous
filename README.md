@@ -1,6 +1,6 @@
 # Hi, I'm Karandeep Singh.
 
-## I'm a developer, WWDC '22 Swift Student Challenge winner, and Year 2 Information Technology student at Singapore Polytechnic. I make cool things.
+## I'm an 18 year old developer from Singapore.
 
 ## You can learn more about my apps and me on my [website](https://ksapps.com/).
 <br/><br/>
